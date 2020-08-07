@@ -2,12 +2,14 @@
 ![Willisornis vidua](https://upload.wikimedia.org/wikipedia/commons/2/24/Willisornis_vidua_-_Xingu_scale-back_antbird_%28young_male%29.jpg)
 Image: a young male *Willisornis vidua*, photograph by Hector Bottai, copyright [creative commons](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-The repository describes all pipelines used to annotate and analyze the genome of Willisornis vidua nigrigula.
+The repository describes all pipelines used to annotate and analyze the genome of *Willisornis vidua nigrigula*.
 Note that throughout this repository, many of the file names refer to "*Willisornis poecilinotus*" - this was the name of *Willisornis vidua* before it was split from *Willisornis poecilinotus*. The sample sequenced here belongs to Willisornis vidua nigrigula, with approximately 9.8% ancestry from W. poecilinotus griseiventris.
 
-Note that the code archived here are the commands that were actually run for the Willisornis project, and so all of the paths to folders and executables are hard-coded. To run on a different machine or with different data, the commands will need to be modified. 
+Note that the code archived here are the commands that were run for the Willisornis project, and so all of the paths to folders and executables are hard-coded. To run on a different machine or with different data, the commands will need to be modified. 
 
-I have placed several output files and data documenting various steps into this repository as well:
+If there are any questions about these analyses or the manuscript, please email Else Mikkelsen at `else.mikkelsen(at)mail.utoronto.ca`.
+
+I have placed several output files and data documenting various steps into this repository as well, including all files that would be required to replicate the analyses, except for sequence data. Protein/RNA data from other species can be downloaded from NCBI or Ensembl with instructions described in the analyses pages. The *Willisornis* genome sequence itself and the raw sequencing reads can be obtained from NCBI.
 
 ### Sequencing Data
 * The quality control statistics for the sequencing reads (bamstats, flagstats, samstats, mapping logs, and FastQC reports) are in `QC_reports`
