@@ -1,0 +1,121 @@
+Number of matchs                             790067
+Number of protein_matchs                     218850
+Number of introns                            1167525
+Number of match_parts                        2176442
+Number of single exon match                  790067
+Number of single exon protein_match          218850
+mean introns per match                       1.5
+mean introns per protein_match               5.3
+mean match_parts per match                   2.8
+mean match_parts per protein_match           9.9
+Total match length                           2155329781
+Total protein_match length                   1136909315
+Total intron length                          2910292557
+Total match_part length                      383114064
+mean match length                            2728
+mean protein_match length                    5194
+mean intron length                           2492
+mean match_part length                       176
+Longest matchs                               1889166
+Longest protein_matchs                       149217
+Longest introns                              407747
+Longest match_parts                          32533
+Shortest matchs                              6
+Shortest protein_matchs                      66
+Shortest introns                             5
+Shortest match_parts                         3
+
+Number of genes                              43959
+Number of mrnas                              43959
+Number of mrnas with utr both sides          27
+Number of mrnas with at least one utr        424
+Number of cdss                               43959
+Number of exons                              287475
+Number of five_prime_utrs                    372
+Number of three_prime_utrs                   79
+Number of exon in cds                        287297
+Number of exon in five_prime_utr             487
+Number of exon in three_prime_utr            141
+Number of intron in cds                      243338
+Number of intron in exon                     243516
+Number of intron in five_prime_utr           115
+Number of intron in three_prime_utr          62
+Number of single exon gene                   1119
+Number of single exon mrna                   1119
+mean mrnas per gene                          1.0
+mean cdss per mrna                           1.0
+mean exons per mrna                          6.5
+mean five_prime_utrs per mrna                0.0
+mean three_prime_utrs per mrna               0.0
+mean exons per cds                           6.5
+mean exons per five_prime_utr                1.3
+mean exons per three_prime_utr               1.8
+mean introns in cdss per mrna                5.5
+mean introns in exons per mrna               5.5
+mean introns in five_prime_utrs per mrna     0.0
+mean introns in three_prime_utrs per mrna    0.0
+Total gene length                            1305977035
+Total mrna length                            1305977035
+Total cds length                             38844153
+Total exon length                            38880989
+Total five_prime_utr length                  21311
+Total three_prime_utr length                 15525
+Total intron length per cds                  1265990392
+Total intron length per exon                 1267339562
+Total intron length per five_prime_utr       1030283
+Total intron length per three_prime_utr      309761
+mean gene length                             29708
+mean mrna length                             29708
+mean cds length                              883
+mean exon length                             135
+mean five_prime_utr length                   57
+mean three_prime_utr length                  196
+mean cds piece length                        135
+mean five_prime_utr piece length             43
+mean three_prime_utr piece length            110
+mean intron in cds length                    5202
+mean intron in exon length                   5204
+mean intron in five_prime_utr length         8958
+mean intron in three_prime_utr length        4996
+Longest genes                                1820903
+Longest mrnas                                1820903
+Longest cdss                                 66285
+Longest exons                                11561
+Longest five_prime_utrs                      1305
+Longest three_prime_utrs                     882
+Longest cds piece                            11561
+Longest five_prime_utr piece                 219
+Longest three_prime_utr piece                882
+Longest intron into cds part                 332544
+Longest intron into exon part                332544
+Longest intron into five_prime_utr part      112671
+Longest intron into three_prime_utr part     33933
+Shortest genes                               66
+Shortest mrnas                               66
+Shortest cdss                                9
+Shortest exons                               3
+Shortest five_prime_utrs                     1
+Shortest three_prime_utrs                    7
+Shortest cds piece                           1
+Shortest five_prime_utr piece                1
+Shortest three_prime_utr piece               1
+Shortest intron into cds part                5
+Shortest intron into exon part               5
+Shortest intron into five_prime_utr part     133
+Shortest intron into three_prime_utr part    135
+
+ _______________________________________________________________________________________________________
+|                         |  Nb term linked to mRNA |    Nb mRNA with term    |    Nb gene with term    |
+|_______________________________________________________________________________________________________|
+
+nb mRNA without Functional annotation () = 2220401 (remind: total mRNA = 2220401)
+nb mRNA with Functional annotation () = 0 (remind: total mRNA = 2220401)
+nb gene without Functional annotation () = 1052876 (remind: total gene = 1052876)
+nb gene with Functional annotation () = 0 (remind: total gene = 1052876)
+
+We found 1052876 genes with <Name> attribute. (remind: total gene = 1052876)
+We found 43959 mRNAs with <Name> attribute. They probably have the same names as their parent genes. (remind: total mRNA = 2220401)
+No gene with <description> attribute found.
+No mRNA with <description> attribute found.
+No gene with <product> attribute found.
+No mRNA with <product> attribute found.
