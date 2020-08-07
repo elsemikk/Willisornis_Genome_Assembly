@@ -13,5 +13,9 @@ The most useful ones are:
 * The curated TE library is in the folder Repeat_library as "Wilpoe_TE_library.fasta"
 * The uncurated TE library is in the folder Repeat_library as "Anteater_repeat_library.lib" - warning: I recommend using the curated TE library above, not this uncurated TE library, as it includes classification errors that were corrected during curation.
 
+Annotation_stats
+* tsv file listing interproscan hits to all the proteins: `Anteater_R4prot_5interpro.tsv`
+* statistics about the filtered proteome: `Anteater.standardplus.functional_5interpro`
+
 ![Willisornis poecilinotus](https://upload.wikimedia.org/wikipedia/commons/1/1b/HypocnemisLepidonotaSmit.jpg)
-Illustration: Willisornis poecilinotus lepidonota, female (top) and male (below) by Joseph Smit, 1892.
+Illustration: Willisornis poecilinotus lepidonota, female (top) and male (below) by Joseph Smit, 1892 (Public domain).
