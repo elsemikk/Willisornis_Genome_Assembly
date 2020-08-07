@@ -1,0 +1,51 @@
+==================================================
+file name: Anteater700.fasta        
+sequences:         23036
+total length: 1112597196 bp  (1089534386 bp excl N/X-runs)
+GC level:         42.29 %
+bases masked:  111723485 bp ( 10.04 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:            18241      3518388 bp    0.32 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:           162855     53599579 bp    4.82 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1     158674     49898220 bp    4.48 %
+
+LTR elements:     86658     38543689 bp    3.46 %
+      ERVL        16108      9259731 bp    0.83 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI   2211      1272976 bp    0.11 %
+      ERV_classII  1681      2448478 bp    0.22 %
+
+DNA elements:         0            0 bp    0.00 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      6180      3251933 bp    0.29 %
+
+Total interspersed repeats: 98913589 bp    8.89 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:        2143       625090 bp    0.06 %
+Simple repeats:  204329      9746917 bp    0.88 %
+Low complexity:   45674      2481747 bp    0.22 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.1
+                                         
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in "Wilpoe_FicUraRTE.lib"
+

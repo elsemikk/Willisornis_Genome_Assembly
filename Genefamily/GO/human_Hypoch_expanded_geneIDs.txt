@@ -1,0 +1,186 @@
+OG0000001
+WilPoe11476 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.04 eAED_0.01 QI_0|0|0|0.5|1|1|2|0|335
+WilPoe11477 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.01 eAED_0.01 QI_0|-1|0|1|-1|1|1|0|308
+WilPoe17458 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.13 eAED_0.03 QI_14|0|0|0.66|1|0.66|3|0|319
+WilPoe17471 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.13 eAED_0.13 QI_0|-1|0|1|-1|1|1|0|248
+WilPoe16350 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.10 eAED_0.69 QI_0|0|0|1|1|1|2|0|300
+WilPoe17258 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.19 eAED_0.19 QI_0|0|0|0.5|1|1|2|0|100
+WilPoe17259 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.20 eAED_0.20 QI_0|0|0|0.66|1|1|3|0|152
+WilPoe17393 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.03 eAED_0.03 QI_0|-1|0|1|-1|1|1|0|318
+WilPoe17432 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.15 eAED_0.12 QI_0|-1|0|1|-1|1|1|0|216
+WilPoe17433 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.09 eAED_0.09 QI_0|-1|0|1|-1|1|1|0|313
+WilPoe17017 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.04 eAED_0.04 QI_0|-1|0|1|-1|1|1|0|307
+WilPoe17105 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.15 eAED_0.15 QI_0|0|0|0.6|1|1|5|0|375
+WilPoe17187 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.40 eAED_0.40 QI_0|0|0|0.33|1|1|6|0|229
+WilPoe16267 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.10 eAED_0.69 QI_0|0|0|1|1|1|2|0|300
+WilPoe17197 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.03 eAED_0.03 QI_0|-1|0|1|-1|1|1|0|321
+WilPoe16899 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.04 eAED_0.04 QI_0|-1|0|1|-1|1|1|0|307
+WilPoe17120 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.03 eAED_0.01 QI_0|-1|0|1|-1|1|1|0|325
+WilPoe17212 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.10 eAED_0.10 QI_0|-1|0|1|-1|1|1|0|206
+WilPoe10853 protein Name_"Similar to OR14L1P Putative olfactory receptor 14L1 _Homo sapiens OX=9606_" AED_0.21 eAED_0.21 QI_0|0|0|1|1|1|2|0|191
+WilPoe10796 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.04 eAED_0.04 QI_0|-1|0|1|-1|1|1|0|304
+WilPoe17386 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.04 eAED_0.04 QI_0|-1|0|1|-1|1|1|0|325
+WilPoe17282 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.12 eAED_0.12 QI_0|0|0|0.66|1|1|3|0|301
+WilPoe17447 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.28 eAED_0.28 QI_0|0|0|0.66|1|1|3|0|133
+WilPoe14887 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.06 eAED_0.06 QI_0|-1|0|1|-1|1|1|0|330
+WilPoe14886 protein Name_"Similar to N340_03606 Olfactory receptor 14A16 _Fragment_ _Tauraco erythrolophus OX=121530_" AED_0.78 eAED_0.87 QI_0|0|0|0.33|1|1|3|0|79
+WilPoe14893 protein Name_"Similar to OR14A16 Olfactory receptor 14A16 _Homo sapiens OX=9606_" AED_0.11 eAED_0.11 QI_0|-1|0|1|-1|1|1|0|199
+WilPoe14888 protein Name_"Similar to OR14I1 Olfactory receptor 14I1 _Homo sapiens OX=9606_" AED_0.34 eAED_0.34 QI_0|-1|0|1|-1|1|1|0|96
+WilPoe14890 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.03 eAED_0.03 QI_0|-1|0|1|-1|1|1|0|318
+WilPoe14896 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.22 eAED_0.22 QI_0|-1|0|1|-1|1|1|0|318
+WilPoe14895 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.57 eAED_0.69 QI_0|0|0|0.5|1|1|4|0|262
+WilPoe17255 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.07 eAED_0.07 QI_0|0|0|1|1|1|2|0|188
+WilPoe16801 protein Name_"Similar to OR14I1 Olfactory receptor 14I1 _Homo sapiens OX=9606_" AED_0.18 eAED_0.07 QI_0|0|0|0.5|0.66|0.5|4|0|318
+WilPoe16800 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.12 eAED_0.12 QI_0|0|0|0.66|1|1|3|0|277
+WilPoe17104 protein Name_"Similar to OR14J1 Olfactory receptor 14J1 _Homo sapiens OX=9606_" AED_0.04 eAED_0.04 QI_0|-1|0|1|-1|1|1|0|307
+OG0000004
+WilPoe16555 protein Name_"Similar to Class II histocompatibility antigen_ B-L beta chain _Fragment_ _Gallus gallus OX=9031_" AED_0.08 eAED_0.08 QI_0|0|0|1|1|0.5|2|0|194
+WilPoe10852 protein Name_"Similar to Class II histocompatibility antigen_ B-L beta chain _Fragment_ _Gallus gallus OX=9031_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|2|0|90
+WilPoe17303 protein Name_"Similar to Class II histocompatibility antigen_ B-L beta chain _Fragment_ _Gallus gallus OX=9031_" AED_0.36 eAED_1.00 QI_0|0|0|1|0|0|2|0|64
+OG0000006
+WilPoe15139 protein Name_"Similar to ACR Acrosin _Meleagris gallopavo OX=9103_" AED_0.32 eAED_1.00 QI_0|0|0|1|1|1|2|0|170
+WilPoe15055 protein Name_"Similar to ACR Acrosin _Meleagris gallopavo OX=9103_" AED_0.09 eAED_0.09 QI_0|0|0|1|1|1|4|0|395
+WilPoe03081 protein Name_"Similar to ACR Acrosin _Meleagris gallopavo OX=9103_" AED_0.11 eAED_0.57 QI_0|0|0|0.8|1|1|5|0|296
+WilPoe03088 protein Name_"Similar to ACR Acrosin _Meleagris gallopavo OX=9103_" AED_0.08 eAED_0.39 QI_0|0|0|0.8|1|1|5|0|445
+WilPoe06712 protein Name_"Similar to ACR Acrosin _Meleagris gallopavo OX=9103_" AED_0.09 eAED_-0.01 QI_0|0|0|0.8|0.75|1|5|0|322
+WilPoe05735 protein Name_"Similar to ACR Acrosin _Meleagris gallopavo OX=9103_" AED_0.21 eAED_0.20 QI_0|0|0|0.36|0.8|0.81|11|0|604
+WilPoe00603 protein Name_"Similar to ACR Acrosin _Meleagris gallopavo OX=9103_" AED_1.00 eAED_1.00 QI_0|-1|0|0|-1|1|1|0|95
+OG0000013
+WilPoe07685 protein Name_"Similar to DUI87_04242 Uncharacterized protein _Hirundo rustica rustica OX=333673_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|5|0|246
+WilPoe16621 protein Name_"Similar to DUI87_22376 Uncharacterized protein _Hirundo rustica rustica OX=333673_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|9|0|300
+WilPoe08121 protein Name_"Similar to MROH7 Maestro heat-like repeat-containing protein family member 7 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|12|0|498
+WilPoe17398 protein Name_"Similar to MROH7 Maestro heat-like repeat-containing protein family member 7 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|13|0|1160
+OG0000016
+WilPoe11474 protein Name_"Similar to MR1 Major histocompatibility complex class I-related gene protein _Bos taurus OX=9913_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|2|0|85
+WilPoe11475 protein Name_"Similar to Class I histocompatibility antigen_ F10 alpha chain _Gallus gallus OX=9031_" AED_0.15 eAED_0.33 QI_0|0|0|0.6|1|1|5|0|314
+WilPoe10855 protein Name_"Similar to Class I histocompatibility antigen_ F10 alpha chain _Gallus gallus OX=9031_" AED_0.23 eAED_0.09 QI_0|0|0|0.66|0.5|0.33|3|0|148
+WilPoe10851 protein Name_"Similar to Class I histocompatibility antigen_ F10 alpha chain _Gallus gallus OX=9031_" AED_0.28 eAED_0.16 QI_0|0|0|1|1|1|2|0|237
+WilPoe10854 protein Name_"Similar to Class I histocompatibility antigen_ F10 alpha chain _Gallus gallus OX=9031_" AED_0.65 eAED_0.65 QI_0|0|0|0.33|1|1|3|0|148
+WilPoe17304 protein Name_"Similar to Class I histocompatibility antigen_ F10 alpha chain _Gallus gallus OX=9031_" AED_0.17 eAED_0.17 QI_0|0|0|0.5|1|1|6|0|282
+OG0000017
+WilPoe01857 protein Name_"Similar to N305_07063 RVT_thumb domain-containing protein _Fragment_ _Manacus vitellinus OX=328815_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|9|0|394
+OG0000020
+WilPoe01205 protein Name_"Similar to H2B-V Histone H2B 5 _Gallus gallus OX=9031_" AED_0.05 eAED_0.05 QI_0|-1|0|1|-1|1|1|0|126
+WilPoe16437 protein Name_"Similar to H2B-I Histone H2B 1/2/3/4/6 _Gallus gallus OX=9031_" AED_0.08 eAED_0.03 QI_0|0|0|0.5|1|1|2|0|132
+OG0000021
+WilPoe12902 protein Name_"Similar to Itpripl1 Inositol 1_4_5-trisphosphate receptor-interacting protein-like 1 _Rattus norvegicus OX=10116_" AED_0.14 eAED_0.07 QI_0|-1|0|1|-1|1|1|0|172
+WilPoe17257 protein Name_"Similar to Itpripl1 Inositol 1_4_5-trisphosphate receptor-interacting protein-like 1 _Rattus norvegicus OX=10116_" AED_0.16 eAED_-0.23 QI_0|-1|0|1|-1|1|1|0|505
+WilPoe04416 protein Name_"Similar to Itpripl1 Inositol 1_4_5-trisphosphate receptor-interacting protein-like 1 _Mus musculus OX=10090_" AED_0.25 eAED_-0.13 QI_0|0|0|0.14|1|1|7|0|601
+OG0000022
+OG0000024
+OG0000048
+WilPoe17312 protein Name_"Similar to Phf7 PHD finger protein 7 _Rattus norvegicus OX=10116_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|159
+WilPoe10139 protein Name_"Similar to G2E3 G2/M phase-specific E3 ubiquitin-protein ligase _Homo sapiens OX=9606_" AED_0.26 eAED_0.23 QI_0|0|0|0.83|1|1|6|0|267
+WilPoe11494 protein Name_"Similar to Phf7 PHD finger protein 7 _Mus musculus OX=10090_" AED_0.14 eAED_0.11 QI_0|0|0|1|1|1|3|0|140
+OG0000051
+WilPoe17361 protein Name_"Similar to Glutathione S-transferase _Gallus gallus OX=9031_" AED_0.23 eAED_0.43 QI_0|0|0|0.8|1|1|5|0|206
+WilPoe01567 protein Name_"Similar to Glutathione S-transferase 3 _Gallus gallus OX=9031_" AED_0.11 eAED_0.18 QI_0|0|0|1|1|0.83|6|0|229
+WilPoe01566 protein Name_"Similar to Glutathione S-transferase _Gallus gallus OX=9031_" AED_0.12 eAED_0.41 QI_0|0|0|1|1|1|10|0|375
+WilPoe17332 protein Name_"Similar to Glutathione S-transferase _Gallus gallus OX=9031_" AED_0.27 eAED_0.46 QI_29|0|0|0.8|1|0.8|5|0|199
+OG0000053
+WilPoe16439 protein Name_"Similar to TGas006m08.1 Histone H4 _Xenopus tropicalis OX=8364_" AED_0.00 eAED_0.00 QI_0|-1|0|1|-1|1|1|0|103
+WilPoe16435 protein Name_"Similar to TGas006m08.1 Histone H4 _Xenopus tropicalis OX=8364_" AED_0.03 eAED_0.03 QI_0|-1|0|1|-1|1|1|0|103
+OG0000069
+WilPoe16440 protein Name_"Similar to Histone H1.10 _Gallus gallus OX=9031_" AED_0.12 eAED_-0.09 QI_0|0|0|0.5|1|1|2|0|287
+WilPoe16438 protein Name_"Similar to Histone H1.10 _Gallus gallus OX=9031_" AED_0.02 eAED_0.01 QI_0|0|0|0.5|1|1|2|0|230
+OG0000082
+WilPoe05840 protein Name_"Similar to ANKRD7 Ankyrin repeat domain-containing protein 7 _Macaca fascicularis OX=9541_" AED_0.15 eAED_0.15 QI_0|0|0|1|1|1|2|0|94
+WilPoe01261 protein Name_"Similar to Ankrd7 Ankyrin repeat domain-containing protein 7 _Mus musculus OX=10090_" AED_0.10 eAED_0.09 QI_0|0|0|1|1|1|4|0|200
+WilPoe01260 protein Name_"Similar to ANKRD26 Ankyrin repeat domain-containing protein 26 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|8|0|403
+OG0000090
+WilPoe16897 protein Name_"Similar to Gvin1 Interferon-induced very large GTPase 1 _Mus musculus OX=10090_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|403
+WilPoe16896 protein Name_"Similar to GVINP1 Interferon-induced very large GTPase 1 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|-1|0|0|-1|1|1|0|309
+WilPoe16895 protein Name_"Similar to GVINP1 Interferon-induced very large GTPase 1 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|2|0|123
+OG0000094
+WilPoe16192 protein Name_"Similar to ZNF398 Zinc finger protein 398 _Homo sapiens OX=9606_" AED_0.13 eAED_-0.08 QI_0|0|0|1|1|1|2|0|248
+WilPoe16191 protein Name_"Similar to DV515_00015717 KRAB domain-containing protein _Chloebia gouldiae OX=44316_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|2|0|148
+OG0000106
+WilPoe17409 protein Name_"Similar to MT-ATP6 ATP synthase subunit a _Anas platyrhynchos OX=8839_" AED_0.46 eAED_0.70 QI_0|0|0|1|0|0|5|0|287
+OG0000158
+WilPoe17363 protein Name_"Similar to pak3 Serine/threonine-protein kinase PAK 3 _Xenopus laevis OX=8355_" AED_0.37 eAED_0.37 QI_0|0|0|0.22|1|1|9|0|356
+WilPoe16088 protein Name_"Similar to Pak1 Serine/threonine-protein kinase PAK 1 _Mus musculus OX=10090_" AED_0.05 eAED_0.05 QI_0|0|0|1|1|1|3|0|145
+OG0000322
+WilPoe16202 protein Name_"Similar to lrrc14 Leucine-rich repeat-containing protein 14 _Xenopus laevis OX=8355_" AED_0.04 eAED_0.16 QI_0|0|0|1|1|1|3|0|454
+OG0000418
+WilPoe16205 protein Name_"Similar to FCGBP IgGFc-binding protein _Homo sapiens OX=9606_" AED_0.26 eAED_0.32 QI_0|0|0|0.69|0.83|0.69|13|0|2417
+WilPoe15057 protein Name_"Similar to FCGBP IgGFc-binding protein _Homo sapiens OX=9606_" AED_0.33 eAED_0.72 QI_0|0|0|0.30|1|1|13|0|1804
+OG0000734
+WilPoe03585 protein Name_"Similar to TTN Titin _Homo sapiens OX=9606_" AED_0.44 eAED_0.99 QI_0|0|0|0.87|0.71|0.75|8|0|723
+OG0000756
+WilPoe16149 protein Name_"Similar to GKN1 Gastrokine-1 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|7|0|210
+WilPoe16936 protein Name_"Similar to ANTXR1_1 Anthrax toxin receptor 1 _Fragment_ _Lonchura striata domestica OX=299123_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|5|0|179
+OG0000819
+OG0000873
+WilPoe17047 protein Name_"Similar to DCTN1 Dynactin subunit 1 _Gallus gallus OX=9031_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|2|0|102
+WilPoe17044 protein Name_"Similar to DCTN1 Dynactin subunit 1 _Gallus gallus OX=9031_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|2|0|102
+OG0000974
+WilPoe16351 protein Name_"Similar to TRAV26-2 T cell receptor alpha variable 26-2 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|106
+WilPoe10644 protein Name_"Similar to TRAV4 T cell receptor alpha variable 4 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|106
+WilPoe16268 protein Name_"Similar to TRAV26-2 T cell receptor alpha variable 26-2 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|95
+OG0001023
+WilPoe07692 protein Name_"Similar to KLF7 Krueppel-like factor 7 _Homo sapiens OX=9606_" AED_0.35 eAED_0.35 QI_0|0|0|0.25|1|1|4|0|83
+WilPoe01034 protein Name_"Similar to Klf3 Krueppel-like factor 3 _Mus musculus OX=10090_" AED_0.62 eAED_0.62 QI_0|0|0|0.2|1|1|5|0|99
+WilPoe17388 protein Name_"Similar to Klf5 Krueppel-like factor 5 _Mus musculus OX=10090_" AED_0.04 eAED_0.04 QI_0|-1|0|1|-1|1|1|0|58
+WilPoe05017 protein Name_"Similar to zic4 Zinc finger protein ZIC 4 _Xenopus laevis OX=8355_" AED_0.41 eAED_0.41 QI_0|0|0|0.5|0|0.5|2|0|152
+WilPoe17459 protein Name_"Similar to KLF9 Krueppel-like factor 9 _Homo sapiens OX=9606_" AED_0.07 eAED_0.07 QI_0|-1|0|1|-1|1|1|0|76
+WilPoe09365 protein Name_"Similar to Klf13 Krueppel-like factor 13 _Mus musculus OX=10090_" AED_0.24 eAED_0.24 QI_0|0|0|0.33|1|1|3|0|113
+OG0001029
+WilPoe07344 protein Name_"Similar to EPHA5 Ephrin type-A receptor 5 _Gallus gallus OX=9031_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|4|0|300
+WilPoe14885 protein Name_"Similar to EPHA3 Ephrin type-A receptor 3 _Gallus gallus OX=9031_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|4|0|307
+WilPoe04886 protein Name_"Similar to EPHB3 Ephrin type-B receptor 3 _Fragment_ _Gallus gallus OX=9031_" AED_0.41 eAED_0.39 QI_0|0|0|0.66|1|1|3|0|257
+WilPoe11816 protein Name_"Similar to Ephb1 Ephrin type-B receptor 1 _Rattus norvegicus OX=10116_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|271
+WilPoe12819 protein Name_"Similar to EPHB2 Ephrin type-B receptor 2 _Gallus gallus OX=9031_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|2|0|315
+WilPoe12825 protein Name_"Similar to Epha8 Ephrin type-A receptor 8 _Mus musculus OX=10090_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|320
+OG0001030
+WilPoe16508 protein Name_"Similar to ZNF638 Zinc finger protein 638 _Homo sapiens OX=9606_" AED_0.26 eAED_0.03 QI_0|0|0|0.33|1|1|3|0|365
+WilPoe16511 protein Name_"Similar to ZNF638 Zinc finger protein 638 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|2|0|522
+WilPoe16509 protein Name_"Similar to ZNF638 Zinc finger protein 638 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|5|0|164
+WilPoe16510 protein Name_"Similar to ZNF638 Zinc finger protein 638 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|162
+OG0001050
+WilPoe16056 protein Name_"Similar to TRAV1-2 T cell receptor alpha variable 1-2 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|5|0|251
+WilPoe10648 protein Name_"Similar to DUI87_21976 Uncharacterized protein _Hirundo rustica rustica OX=333673_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|8|0|311
+OG0001100
+WilPoe14161 protein Name_"Similar to tbc1d24 TBC1 domain family member 24 _Xenopus laevis OX=8355_" AED_0.06 eAED_0.62 QI_0|0|0|0.85|1|1|7|0|626
+WilPoe17002 protein Name_"Similar to tbc1d24 TBC1 domain family member 24 _Xenopus laevis OX=8355_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|166
+OG0001152
+OG0001239
+WilPoe14615 protein Name_"Similar to HSPG2 Basement membrane-specific heparan sulfate proteoglycan core protein _Homo sapiens OX=9606_" AED_0.54 eAED_0.47 QI_0|0|0|1|1|1|2|0|130
+WilPoe14616 protein Name_"Similar to HSPG2 Basement membrane-specific heparan sulfate proteoglycan core protein _Homo sapiens OX=9606_" AED_0.45 eAED_0.57 QI_0|0|0|0.93|1|1|16|0|988
+WilPoe14614 protein Name_"Similar to HSPG2 Basement membrane-specific heparan sulfate proteoglycan core protein _Homo sapiens OX=9606_" AED_0.48 eAED_0.61 QI_0|0|0|1|1|1|4|0|150
+WilPoe14613 protein Name_"Similar to HSPG2 Basement membrane-specific heparan sulfate proteoglycan core protein _Homo sapiens OX=9606_" AED_0.47 eAED_0.65 QI_0|0|0|1|1|1|4|0|150
+WilPoe14617 protein Name_"Similar to HSPG2 Basement membrane-specific heparan sulfate proteoglycan core protein _Homo sapiens OX=9606_" AED_0.51 eAED_0.83 QI_0|0|0|0.85|0.83|0.85|7|0|266
+OG0001366
+WilPoe16203 protein Name_"Similar to TECTA Alpha-tectorin _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|298
+OG0001580
+WilPoe16399 protein Name_"Similar to ANO8 Anoctamin-8 _Homo sapiens OX=9606_" AED_0.12 eAED_0.13 QI_0|0|0|0.73|0.71|0.8|15|0|965
+OG0001626
+WilPoe16624 protein Name_"Similar to SND1 Staphylococcal nuclease domain-containing protein 1 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|73
+WilPoe16853 protein Name_"Similar to SND1 Staphylococcal nuclease domain-containing protein 1 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|5|0|189
+WilPoe16858 protein Name_"Similar to SND1 Staphylococcal nuclease domain-containing protein 1 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|5|0|189
+WilPoe16631 protein Name_"Similar to SND1 Staphylococcal nuclease domain-containing protein 1 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|73
+OG0001723
+WilPoe15703 protein Name_"Similar to Nos3 Nitric oxide synthase_ endothelial _Mus musculus OX=10090_" AED_0.06 eAED_0.33 QI_0|0|0|0.95|1|1|21|0|1016
+OG0001873
+WilPoe03241 protein Name_"Similar to Pde4d cAMP-specific 3'_5'-cyclic phosphodiesterase 4D _Mus musculus OX=10090_" AED_0.34 eAED_0.34 QI_0|0|0|0.16|1|1|6|0|186
+WilPoe14356 protein Name_"Similar to PDE4B cAMP-specific 3'_5'-cyclic phosphodiesterase 4B _Homo sapiens OX=9606_" AED_0.10 eAED_0.10 QI_0|0|0|0.5|1|1|2|0|69
+OG0001915
+WilPoe16995 protein Name_"Similar to MT-ND1 NADH-ubiquinone oxidoreductase chain 1 _Struthio camelus OX=8801_" AED_0.48 eAED_0.48 QI_0|0|0|1|0|0|2|0|160
+WilPoe17086 protein Name_"Similar to MT-ND1 NADH-ubiquinone oxidoreductase chain 1 _Fragment_ _Anas platyrhynchos OX=8839_" AED_0.48 eAED_0.64 QI_0|0|0|1|0|0|3|0|165
+OG0002132
+OG0004927
+WilPoe00371 protein Name_"Similar to CSMD3 CUB and sushi domain-containing protein 3 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|6|0|211
+WilPoe15453 protein Name_"Similar to CSMD2 CUB and sushi domain-containing protein 2 _Homo sapiens OX=9606_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|4|0|217
+OG0011571
+WilPoe01599 protein Name_"Similar to eys Protein eyes shut homolog _Danio rerio OX=7955_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|8|0|301
+OG0012573
+WilPoe07011 protein Name_"Similar to LTBP2 Latent-transforming growth factor beta-binding protein 2 _Bos taurus OX=9913_" AED_1.00 eAED_1.00 QI_0|0|0|0|1|1|3|0|132
+WilPoe10763 protein Name_"Similar to FBN2 Fibrillin-2 _Homo sapiens OX=9606_" AED_0.68 eAED_0.84 QI_0|0|0|0.66|0.4|0.5|6|0|280
+OG0012968
+WilPoe17097 protein Name_"Similar to MT-ND5 NADH-ubiquinone oxidoreductase chain 5 _Struthio camelus OX=8801_" AED_0.43 eAED_0.69 QI_0|0|0|1|0|0|4|0|503
+WilPoe17412 protein Name_"Similar to MT-ND5 NADH-ubiquinone oxidoreductase chain 5 _Struthio camelus OX=8801_" AED_0.45 eAED_0.55 QI_0|0|0|1|0|0|4|0|345
+WilPoe16989 protein Name_"Similar to MT-ND5 NADH-ubiquinone oxidoreductase chain 5 _Struthio camelus OX=8801_" AED_0.43 eAED_0.69 QI_0|0|0|1|0|0|4|0|503
+WilPoe17094 protein Name_"Similar to MT-ND5 NADH-ubiquinone oxidoreductase chain 5 _Struthio camelus OX=8801_" AED_0.48 eAED_0.48 QI_0|-1|0|1|-1|0|1|0|171
+OG0013277
+WilPoe10755 protein Name_"Similar to OR14I1 Olfactory receptor 14I1 _Homo sapiens OX=9606_" AED_0.33 eAED_0.33 QI_0|-1|0|1|-1|1|1|0|117
+OG0013520
+OG0013734

@@ -1,0 +1,157 @@
+2020-01-12										Repeat statistics:
+/tools/teclass/generate/index.pl?&id=157880455159670										DNA transposons: 7
+TEclass										LTRs:  107
+2020-01-12 5:51										LINEs: 17
+Anteater_genome										SINEs: 2
+Click on one of the following buttons to get info about Statistics or Library										Unclear:  17
+No.	ID	Result	ORFs	Strand	SVM classif. (4mer)	SVM classif. (5mer)	LVQ classif.	RF classif.		
+1	TE_00000000#MITE@unknown	LINE	-	rev. compl.	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE	reverse Retro LTR	reverse Retro LTR		Total: 150
+2	TE_00000001#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+3	TE_00000012#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro nonLTR LINE	reverse Retro LTR		
+4	TE_00000015#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro LTR	reverse Retro LTR		
+5	TE_00000018#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse DNA	forward Retro LTR		
+6	TE_00000021#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+7	TE_00000022#MITE@unknown	LTR	-	forward	reverse Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+8	TE_00000023#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	reverse Retro LTR		
+9	TE_00000024#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward DNA	forward Retro LTR		
+10	TE_00000028#MITE@unknown	LTR	-	forward	reverse Retro LTR	reverse Retro LTR	forward Retro LTR	forward Retro LTR		
+11	TE_00000030#MITE@unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward DNA	forward Retro LTR		
+12	TE_00000032#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro LTR	reverse Retro LTR		
+13	TE_00000033#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+14	TE_00000034#MITE@unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	forward DNA	reverse Retro LTR		
+15	TE_00000036#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro LTR	forward Retro LTR		
+16	TE_00000040#MITE@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro nonLTR LINE	forward Retro LTR		
+17	TE_00000043#MITE@unknown	LTR	-	forward	reverse Retro nonLTR LINE	reverse Retro LTR	forward Retro LTR	forward Retro LTR		
+18	TE_00000046#MITE@unknown	LTR	-	rev. compl.	reverse DNA	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR		
+19	TE_00000049#MITE@unknown	Retro	-	forward	forward Retro nonLTR LINE	reverse DNA	forward Retro LTR	forward Retro nonLTR LINE		
+20	TE_00000052#MITE@unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward Retro LTR	reverse Retro LTR		
+21	TE_00000068#MITE@unknown	Retro	-	forward	forward Retro LTR	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro LTR		
+22	TE_00000071#MITE@unknown	Retro	-	forward	reverse DNA	forward Retro nonLTR SINE	forward Retro nonLTR LINE	reverse Retro LTR		
+23	TE_00000073#MITE@unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	forward Retro LTR	reverse Retro LTR		
+24	TE_00001107_LTR#LTR@unknown	LTR	-	rev. compl.	forward Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro LTR		
+25	TE_00001177_LTR#LTR@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+26	TE_00001214_LTR#LTR@Gypsy	LTR	-	forward	reverse Retro LTR	reverse Retro LTR	forward Retro LTR	forward Retro LTR		
+27	TE_00001324_LTR#LTR@unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	forward DNA	reverse Retro nonLTR LINE		
+28	TE_00002249_INT#LTR@Gypsy	LTR	0..1280:+3 1310..2002:+2 2200..4644:+1	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+29	TE_00002464_LTR#LTR@unknown	DNA	-	rev. compl.	reverse DNA	reverse DNA	reverse Retro LTR	forward Retro LTR		
+30	TE_00002563_LTR#LTR@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro LTR	forward Retro LTR		
+31	TE_00002676_LTR#LTR@unknown	SINE	-	forward	reverse Retro nonLTR SINE	forward Retro nonLTR SINE	forward Retro nonLTR LINE	forward Retro nonLTR SINE		
+32	TE_00002739_LTR#LTR@Copia	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro nonLTR LINE	forward Retro LTR		
+33	TE_00002743_INT#LTR@Gypsy	LTR	479..2242:+2 2267..5764:+2 5779..7758:+1	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+34	TE_00002799_LTR#LTR@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward DNA	forward Retro LTR		
+35	TE_00002809_LTR#LTR@Gypsy	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward DNA	forward Retro LTR		
+36	TE_00002986_LTR#LTR@unknown	LTR	-	forward	reverse Retro LTR	forward Retro LTR	forward Retro nonLTR LINE	forward Retro LTR		
+37	TE_00003054_INT#LTR@unknown	Retro	-	forward	forward Retro nonLTR LINE	forward Retro LTR	forward DNA	forward Retro LTR		
+38	TE_00003386_LTR#LTR@Gypsy	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+39	TE_00003421_LTR#LTR@Gypsy	LTR	-	forward	reverse Retro LTR	reverse Retro LTR	forward Retro nonLTR LINE	forward Retro LTR		
+40	TE_00003595_INT#LTR@Gypsy	LTR	261..1232:+3 1451..1765:+2 1777..2922:+1 3090..3614:+3 3827..6241:+2	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+41	TE_00003627_LTR#LTR@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro nonLTR LINE	reverse Retro LTR		
+42	TE_00003665_LTR#LTR@Gypsy	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+43	TE_00003759_LTR#LTR@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro nonLTR LINE	forward Retro LTR		
+44	TE_00003992_INT#LTR@unknown	LINE	-	rev. compl.	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE	reverse Retro LTR	reverse Retro LTR		
+45	TE_00004015_LTR#LTR@Gypsy	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+46	TE_00004237_LTR#LTR@unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	reverse Retro LTR	forward Retro LTR		
+47	TE_00004268_LTR#LTR@unknown	LTR	-	forward	reverse Retro LTR	reverse Retro LTR	forward Retro LTR	forward Retro LTR		
+48	TE_00004276_LTR#LTR@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse DNA	reverse Retro LTR		
+49	TE_00004571_LTR#LTR@unknown	LINE	-	rev. compl.	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE		
+50	TE_00004612_LTR#LTR@unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+51	TE_00004824_LTR#LTR@unknown	LTR	-	rev. compl.	forward Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE		
+52	TE_00004863_INT#LTR@unknown	unclear	-	rev. compl.	reverse DNA	reverse Retro LTR	reverse Retro LTR	reverse DNA		
+53	TE_00004880_LTR#LTR@unknown	LINE	-	rev. compl.	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE	forward Retro LTR	reverse Retro LTR		
+54	TE_00004920_LTR#LTR@unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse DNA	reverse Retro LTR		
+55	TE_00004995_LTR#LTR@Copia	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro nonLTR LINE	forward Retro LTR		
+56	rnd-1_family-100#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro nonLTR LINE	reverse Retro nonLTR LINE		
+57	rnd-1_family-101#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+58	rnd-1_family-102#Unknown	Retro	-	forward	forward DNA	forward Retro LTR	reverse Retro nonLTR LINE	reverse Retro LTR		
+59	rnd-1_family-104#Unknown	LTR	-	forward	reverse Retro LTR	forward Retro LTR	forward Retro LTR	reverse Retro LTR		
+60	rnd-1_family-105#Unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward Retro LTR	forward Retro nonLTR LINE		
+61	rnd-1_family-107#LTR@ERVL	LINE	0..3137:+3	forward	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE		
+62	rnd-1_family-113#LINE@CR1	LINE	294..1331:+3 1444..3168:+1	forward	forward Retro LTR	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE		
+63	rnd-1_family-114#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+64	rnd-1_family-117#Unknown	LTR	-	forward	reverse DNA	forward Retro LTR	forward Retro LTR	reverse Retro LTR		
+65	rnd-1_family-119#Unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	forward Retro nonLTR LINE	reverse Retro LTR		
+66	rnd-1_family-120#Unknown	LTR	-	forward	reverse Retro nonLTR LINE	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+67	rnd-1_family-122#LTR@ERVL	LINE	-2..2535:+1 2677..3246:+1	forward	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro LTR	forward Retro nonLTR LINE		
+68	rnd-1_family-126#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro nonLTR LINE	forward Retro LTR		
+69	rnd-1_family-128#Unknown	LTR	1234..2199:+1	forward	forward Retro LTR	forward Retro LTR	forward Retro nonLTR LINE	forward Retro LTR		
+70	rnd-1_family-129#Unknown	LTR	285..1988:+3	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro LTR		
+71	rnd-1_family-130#Unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward Retro LTR	forward Retro LTR		
+72	rnd-1_family-138#Unknown	LTR	288..2246:+3	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse DNA	reverse Retro LTR		
+73	rnd-1_family-143#Unknown	LTR	665..1372:+2	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro LTR		
+74	rnd-1_family-145#Unknown	LTR	423..-2:-1	forward	forward Retro LTR	forward Retro LTR	reverse DNA	reverse Retro LTR		
+75	rnd-1_family-150#Unknown	LTR	1160..2152:+2	forward	forward Retro LTR	forward Retro LTR	forward DNA	forward Retro LTR		
+76	rnd-1_family-152#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro LTR	forward Retro nonLTR LINE		
+77	rnd-1_family-16#LINE@CR1	nonLTR	-	forward	forward Retro nonLTR SINE	reverse Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro LTR		
+78	rnd-1_family-18#LINE@CR1	SINE	-	forward	forward Retro nonLTR SINE	reverse Retro nonLTR SINE	forward Retro nonLTR LINE	forward Retro nonLTR SINE		
+79	rnd-1_family-21#LINE@CR1	LINE	-	forward	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro LTR		
+80	rnd-1_family-26#LINE@CR1	LINE	-	forward	forward Retro LTR	forward Retro nonLTR LINE	forward Retro nonLTR LINE	reverse Retro nonLTR LINE		
+81	rnd-1_family-27#LINE@RTE-BovB	Retro	798..3959:+3	forward	forward Retro LTR	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro LTR		
+82	rnd-1_family-29#Unknown	LTR	-	rev. compl.	reverse Retro LTR	forward Retro LTR	reverse Retro LTR	reverse Retro LTR		
+83	rnd-1_family-31#LINE@CR1	LINE	134..820:+2	forward	reverse Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE		
+84	rnd-1_family-43#Unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward Retro LTR	reverse Retro LTR		
+85	rnd-1_family-44#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+86	rnd-1_family-45#Unknown	LTR	-	forward	reverse Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+87	rnd-1_family-47#LTR@ERVL	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+88	rnd-1_family-51#Unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward Retro LTR	forward Retro LTR		
+89	rnd-1_family-52#LTR@ERVL	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+90	rnd-1_family-53#Unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	forward Retro LTR		
+91	rnd-1_family-54#LTR@ERVL	Retro	0..830:+3 1010..1540:+2	forward	forward Retro nonLTR LINE	reverse Retro LTR	reverse DNA	forward Retro LTR		
+92	rnd-1_family-57#LTR@ERVL	LTR	-	forward	forward Retro nonLTR LINE	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+93	rnd-1_family-59#Unknown	LTR	-	rev. compl.	forward Retro LTR	reverse Retro nonLTR LINE	reverse Retro LTR	reverse Retro LTR		
+94	rnd-1_family-63#Unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	forward DNA	reverse Retro LTR		
+95	rnd-1_family-64#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+96	rnd-1_family-68#Unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR		
+97	rnd-1_family-79#LTR@ERVL	LTR	479..0:-3	forward	forward Retro LTR	forward DNA	forward Retro LTR	forward Retro LTR		
+98	rnd-1_family-80#LTR@ERVK	DNA	445..-1:-2	forward	forward DNA	forward DNA	reverse DNA	forward DNA		
+99	rnd-1_family-81#Unknown	LINE	-	forward	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro LTR	forward Retro LTR		
+100	rnd-1_family-84#Unknown	DNA	-	rev. compl.	reverse DNA	reverse DNA	reverse Retro LTR	reverse Retro LTR		
+101	rnd-1_family-88#Unknown	DNA	513..1358:+3	forward	reverse DNA	reverse DNA	forward Retro LTR	forward Retro LTR		
+102	rnd-1_family-97#Unknown	Retro	-	forward	forward Retro nonLTR LINE	forward Retro LTR	forward Retro nonLTR LINE	forward Retro LTR		
+103	rnd-1_family-98#Unknown	LTR	460..1476:+1 1876..2406:+1	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro LTR		
+104	rnd-1_family-99#Unknown	Retro	-	forward	forward Retro nonLTR LINE	forward Retro LTR	reverse Retro nonLTR LINE	forward Retro LTR		
+105	rnd-3_family-53#LINE@CR1	LINE	457..1041:+1 1154..3697:+2	forward	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE		
+106	rnd-4_family-1062#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward DNA	forward Retro LTR		
+107	rnd-4_family-336#Unknown	LTR	-	forward	forward Retro LTR	forward DNA	reverse Retro LTR	reverse Retro LTR		
+108	rnd-5_family-10335#Unknown	LTR	-	rev. compl.	forward Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE		
+109	rnd-5_family-10372#Satellite	Retro	-	forward	forward Retro nonLTR LINE	forward Retro LTR	reverse DNA	forward Retro LTR		
+110	rnd-5_family-10982#Unknown	Retro	-	forward	forward Retro LTR	reverse Retro nonLTR LINE	forward Retro LTR	reverse Retro nonLTR LINE		
+111	rnd-5_family-11568#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro LTR	reverse Retro LTR		
+112	rnd-5_family-12159#LINE@CR1	DNA	-	forward	reverse DNA	reverse DNA	forward Retro nonLTR LINE	forward Retro nonLTR LINE		
+113	rnd-5_family-14611#Unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward DNA	forward Retro LTR		
+114	rnd-5_family-15382#Unknown	LTR	-	forward	reverse Retro LTR	forward Retro LTR	reverse Retro LTR	forward Retro LTR		
+115	rnd-5_family-1599#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward DNA	forward Retro LTR		
+116	rnd-5_family-16196#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+117	rnd-5_family-16640#Unknown	LTR	-	rev. compl.	forward Retro LTR	reverse Retro LTR	reverse Retro nonLTR SINE	reverse Retro nonLTR LINE		
+118	rnd-5_family-1684#Unknown	LTR	-	forward	reverse Retro nonLTR LINE	forward Retro LTR	forward Retro LTR	reverse Retro LTR		
+119	rnd-5_family-1704#LTR@ERVL	LINE	207..3278:+3	forward	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE		
+120	rnd-5_family-1706#Unknown	LINE	0..1898:+3	forward	forward Retro nonLTR LINE	forward Retro LTR	forward Retro nonLTR LINE	forward Retro nonLTR LINE		
+121	rnd-5_family-17134#Unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR		
+122	rnd-5_family-18364#LTR@ERVK	LTR	308..2287:+2	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE		
+123	rnd-5_family-18768#Unknown	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward Retro LTR	forward Retro LTR		
+124	rnd-5_family-2249#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+125	rnd-5_family-2267#LTR@ERV1	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+126	rnd-5_family-25903#LTR@ERVK	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward DNA		
+127	rnd-5_family-26406#Unknown	LTR	-	rev. compl.	forward Retro LTR	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR		
+128	rnd-5_family-3138#Unknown	unclear	535..3471:+1	rev. compl.	reverse DNA	reverse Retro LTR	reverse DNA	reverse Retro LTR		
+129	rnd-5_family-3181#Unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR		
+130	rnd-5_family-3861#Unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro nonLTR LINE	forward Retro LTR	reverse Retro LTR		
+131	rnd-5_family-4174#Unknown	LTR	328..1407:+1 1479..2198:+3	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE		
+132	rnd-5_family-42824#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+133	rnd-5_family-439#LTR@ERVK	LINE	280..2142:+1 2172..2729:+3	forward	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE	forward Retro nonLTR LINE		
+134	rnd-5_family-4633#LINE@CR1	LINE	-	rev. compl.	reverse Retro nonLTR LINE	forward Retro nonLTR LINE	reverse Retro nonLTR LINE	reverse Retro LTR		
+135	rnd-5_family-5294#LTR@ERVK	unclear	1408..2769:+1	forward	forward DNA	forward Retro LTR	forward DNA	forward Retro LTR		
+136	rnd-5_family-6012#Unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse Retro nonLTR LINE	reverse Retro nonLTR LINE		
+137	rnd-5_family-6177#Unknown	LTR	-	rev. compl.	reverse DNA	reverse Retro LTR	reverse Retro LTR	reverse Retro LTR		
+138	rnd-5_family-6256#Unknown	unclear	-	forward	reverse DNA	forward Retro nonLTR LINE	forward DNA	reverse Retro LTR		
+139	rnd-5_family-6290#Unknown	DNA	-	forward	forward DNA	forward DNA	reverse DNA	forward Retro LTR		
+140	rnd-5_family-6381#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro nonLTR LINE	forward Retro LTR		
+141	rnd-5_family-6742#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	reverse Retro LTR		
+142	rnd-5_family-6995#Unknown	unclear	-	rev. compl.	reverse Retro LTR	reverse DNA	forward DNA	reverse Retro nonLTR LINE		
+143	rnd-5_family-7082#LTR@ERVK	LTR	0..782:+3 1019..1519:+2 4280..5440:+2	forward	forward Retro LTR	forward Retro LTR	forward Retro nonLTR LINE	forward Retro LTR		
+144	rnd-5_family-7126#Unknown	DNA	214..999:+1	forward	forward DNA	forward DNA	reverse DNA	forward DNA		
+145	rnd-5_family-764#Unknown	LTR	-	rev. compl.	reverse Retro LTR	reverse Retro LTR	reverse DNA	forward Retro LTR		
+146	rnd-5_family-796#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro LTR	reverse Retro LTR		
+147	rnd-5_family-963#LTR@ERV1	LTR	-	forward	forward Retro LTR	reverse Retro LTR	forward DNA	forward Retro LTR		
+148	rnd-5_family-965#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	forward Retro LTR	forward Retro LTR		
+149	rnd-5_family-9839#LTR@ERVK	LINE	-2..2355:+1 2451..3908:+3	forward	forward Retro LTR	forward Retro nonLTR LINE	reverse Retro nonLTR LINE	forward Retro nonLTR LINE		
+150	rnd-5_family-992#Unknown	LTR	-	forward	forward Retro LTR	forward Retro LTR	reverse Retro LTR	forward Retro LTR		

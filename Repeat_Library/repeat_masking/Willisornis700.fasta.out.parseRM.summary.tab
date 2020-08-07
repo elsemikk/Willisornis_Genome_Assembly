@@ -1,0 +1,32 @@
+#This file gives some summary info about the masking, total, by class and by family
+#(all repeats are detailed in the file ./Anteater700.fasta.out.parseRM.all-repeats.tab)
+#Overlap or double corresponds to DNA fragments that are masked by several elements.
+#These amounts need to be subtracted in order to get more accurate TE amount.
+#If a .align file was parsed, these amounts will be much higher than for the associated .out
+#Note that overlaps may not be parsed correctly if names are not formatted consistently (Rname#Rclass/Rfam)
+
+#TOTAL:
+#nt_total_in_genome	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+nd	98981641	nd	2315234
+
+#BY CLASS
+#class	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+LINE	53722713	nd	1057004
+SINE	3570874	nd	176756
+Unknown	3275380	nd	200947
+LTR	38412674	nd	853759
+
+#BY FAMILY
+#family	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+Unknown	25887313	nd	781906
+CR1	50014607	nd	974236
+ERV3	3031849	nd	24786
+ERV1	1271892	nd	8611
+ERVK	2444209	nd	28508
+RTE	4362123	nd	34660
+ERVL	9299712	nd	218849
+ERV2	364553	nd	44869
+RTE-BovB	147671	nd	3653
+AviRTE	1200418	nd	44476
+SINE2	670545	nd	109120
+SINE	286749	nd	14792
