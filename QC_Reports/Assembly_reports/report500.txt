@@ -1,0 +1,49 @@
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+- Thu Nov 14 11:22:53 2019
+- [Willisornis_JTW11144__500milReads__2019Nov12]  
+- software release = 2.1.1(6bb16452a)
+- likely sequencers = HiSeq X
+- assembly checksum = 517,180,883,967,655,672
+--------------------------------------------------------------------------------
+INPUT
+-  500.03 M  = READS                 = number of reads; ideal 800M-1200M for human
+-  139.50  b = MEAN READ LEN         = mean read length after trimming; ideal 140
+-   54.30  x = RAW COV               = raw coverage; ideal ~56
+-   37.43  x = EFFECTIVE COV         = effective read coverage; ideal ~42 for raw 56x
+-   75.24  % = READ TWO Q30          = fraction of Q30 bases in read 2; ideal 75-85
+-  307.00  b = MEDIAN INSERT         = median insert size; ideal 350-400
+-   87.44  % = PROPER PAIRS          = fraction of proper read pairs; ideal >= 75
+-    1.00    = BARCODE FRACTION      = fraction of barcodes used; between 0 and 1
+-    1.39 Gb = EST GENOME SIZE       = estimated genome size
+-    8.08  % = REPETITIVE FRAC       = genome repetitivity index
+-    0.03  % = HIGH AT FRACTION      = high AT index
+-   42.18  % = ASSEMBLY GC CONTENT   = GC content of assembly
+-    0.53  % = DINUCLEOTIDE FRACTION = dinucleotide content
+-   24.79 Kb = MOLECULE LEN          = weighted mean molecule size; ideal 50-100
+-   37.15    = P10                   = molecule count extending 10 kb on both sides
+-  189.00  b = HETDIST               = mean distance between heterozygous SNPs
+-    5.77  % = UNBAR                 = fraction of reads that are not barcoded
+-  458.00    = BARCODE N50           = N50 reads per barcode
+-   15.12  % = DUPS                  = fraction of reads that are duplicates
+-   50.41  % = PHASED                = nonduplicate and phased reads; ideal 45-50
+--------------------------------------------------------------------------------
+OUTPUT
+-    2.29 K  = LONG SCAFFOLDS        = number of scaffolds >= 10 kb
+-   39.11 Kb = EDGE N50              = N50 edge size
+-  140.46 Kb = CONTIG N50            = N50 contig size
+-    3.71 Mb = PHASEBLOCK N50        = N50 phase block size
+-    7.34 Mb = SCAFFOLD N50          = N50 scaffold size
+-    6.96  % = MISSING 10KB          = % of base assembly missing from scaffolds >= 10 kb
+-    1.02 Gb = ASSEMBLY SIZE         = assembly size (only scaffolds >= 10 kb)
+--------------------------------------------------------------------------------
+ALARMS
+- The length-weighted mean molecule length is 24793.48 bases. The molecule
+length estimation was successful, however, ideally we would expect a larger
+value. Standard methods starting from blood can yield 100 kb or larger DNA, but
+it can be difficult to obtain long DNA from other sample types. Short molecules
+may reduce the scaffold and phase block N50 length, and could result in
+misassemblies. We have observed assembly quality to improve with longer DNA.
+--------------------------------------------------------------------------------

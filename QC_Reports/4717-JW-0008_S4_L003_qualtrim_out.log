@@ -1,0 +1,5 @@
+TrimmomaticPE: Started with arguments:
+ -threads 6 4717-JW-0008_S4_L003_R1_001.fastq.gz 4717-JW-0008_S4_L003_R2_001.fastq.gz fltrd_adaptrlss4717-JW-0008_S4_L003_R1_001.fastq.gz fltrd_adaptrlss_unpaired4717-JW-0008_S4_L003_R1_001.fastq.gz fltrd_adaptrlss4717-JW-0008_S4_L003_R2_001.fastq.gz fltrd_adaptrlss_unpaired4717-JW-0008_S4_L003_R2_001.fastq.gz HEADCROP:16 TRAILING:3 LEADING:3 SLIDINGWINDOW:4:15 MINLEN:40
+Quality encoding detected as phred33
+Input Read Pairs: 63905978 Both Surviving: 49396233 (77.30%) Forward Only Surviving: 10105763 (15.81%) Reverse Only Surviving: 1878756 (2.94%) Dropped: 2525226 (3.95%)
+TrimmomaticPE: Completed successfully

@@ -1,0 +1,31 @@
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+- Fri Dec 08 11:27:04 2017
+- [Willisornis_poecilinotus_JTW1144]  
+- software release = 1.2.2(e74748e9d)
+- assembly checksum = 1,280,111,709,542,659,245
+--------------------------------------------------------------------------------
+INPUT
+-  442.75 M  = READS          = number of reads; ideal 800M-1200M for human
+-  139.50  b = MEAN READ LEN  = mean read length after trimming; ideal 140
+-   32.91  x = EFFECTIVE COV  = effective read coverage; ideal ~42 for nominal 56x cov
+-   77.73  % = READ TWO Q30   = fraction of Q30 bases in read 2; ideal 75-85
+-  304.00  b = MEDIAN INSERT  = median insert size; ideal 0.35-0.40
+-   88.01  % = PROPER PAIRS   = fraction of proper read pairs; ideal >= 75
+-   31.37 Kb = MOLECULE LEN   = weighted mean molecule size; ideal 50-100
+-  225.00  b = HETDIST        = mean distance between heterozygous SNPs
+-    5.53  % = UNBAR          = fraction of reads that are not barcoded
+-  404.00    = BARCODE N50    = N50 reads per barcode
+-   18.11  % = DUPS           = fraction of reads that are duplicates
+-   48.38  % = PHASED         = nonduplicate and phased reads; ideal 45-50
+--------------------------------------------------------------------------------
+OUTPUT
+-    1.97 K  = LONG SCAFFOLDS = number of scaffolds >= 10 kb
+-   18.04 Kb = EDGE N50       = N50 edge size
+-   73.85 Kb = CONTIG N50     = N50 contig size
+-    1.74 Mb = PHASEBLOCK N50 = N50 phase block size
+-    2.73 Mb = SCAFFOLD N50   = N50 scaffold size
+-  971.82 Mb = ASSEMBLY SIZE  = assembly size (only scaffolds >= 10 kb)
+--------------------------------------------------------------------------------
